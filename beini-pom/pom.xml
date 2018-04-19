@@ -203,7 +203,6 @@
 		<!-- other dependency start -->
 	</dependencies>
 
-
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
